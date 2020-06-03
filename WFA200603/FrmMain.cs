@@ -21,6 +21,7 @@ namespace WFA200603
             btnMinusz.Click += MeretValtoztatas;
             txtKezdoallapot.TextChanged += Gepel;
             btnEllenorzes.Click += Ellenorzes;
+
         }
 
         private void Ellenorzes(object sender, EventArgs e)
